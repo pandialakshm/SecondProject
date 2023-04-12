@@ -22,18 +22,18 @@ public class FirstClass {
 		 * Input - 23 
 		 * output - 24 ... 43
 		 */
-		//number1();
+		number1();
 		
 	}
-	/*
-	 * public static void number1() { int number=15;
-	 * 
-	 * 
-	 * 
-	 * for (int i = number; i <= number+20; i++) { System.out.println(i);
-	 * 
-	 * } }
-	 */
+	
+	  public static void number1() { int number=30;
+	 
+	 
+	 
+	 for (int i = number; i <= number+20; i++) { System.out.println(i);
+	 
+	  } }
+	 
 	
 	}
 
